@@ -1,20 +1,9 @@
-<head>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/heic2any/0.0.4/heic2any.min.js"></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
-        body { font-family: 'Inter', sans-serif; transition: background 0.5s ease; }      
-        .quote-item {
-            background: rgba(255, 255, 255, 0.03);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: all 0.3s ease;
-        }
-        .quote-item:hover {
-            border-color: #6366f1;
-            background: rgba(99, 102, 241, 0.05);
-            transform: translateY(-2px);
-        }
-    </style>
+</head>
+<body class="bg-slate-950 text-slate-200 min-h-screen p-4 md:p-8">
+
+    <div class="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10">
+        
+        <div class="space-y-6 bg-slate-900/60 p-6 md:p-8 rounded-3xl border border-slate-800 shadow-2xl">
 
             <header>
                 <h1 class="text-3xl font-extrabold text-white tracking-tight">SoulScript <span class="text-indigo-500">AI</span></h1>
