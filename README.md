@@ -15,12 +15,7 @@
             transform: translateY(-2px);
         }
     </style>
-</head>
-<body class="bg-slate-950 text-slate-200 min-h-screen p-4 md:p-8">
 
-    <div class="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10">
-        
-        <div class="space-y-6 bg-slate-900/60 p-6 md:p-8 rounded-3xl border border-slate-800 shadow-2xl">
             <header>
                 <h1 class="text-3xl font-extrabold text-white tracking-tight">SoulScript <span class="text-indigo-500">AI</span></h1>
                 <p class="text-slate-500 text-xs mt-1 uppercase tracking-widest">Image to 3-Quote Generator</p>
