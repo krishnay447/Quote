@@ -1,5 +1,4 @@
 <head>
-    <title>SoulScript | Quote Generator</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/heic2any/0.0.4/heic2any.min.js"></script>
     <style>
